@@ -1,0 +1,4 @@
+pe\resteban\template\application\command\CreateOrderCommandHandlerTest.class
+pe\resteban\template\TemplateApplicationTests.class
+pe\resteban\template\domain\model\OrderTest.class
+pe\resteban\template\infrastructure\rest\OrderControllerIT.class

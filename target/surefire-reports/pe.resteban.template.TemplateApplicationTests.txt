@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pe.resteban.template.TemplateApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.659 s -- in pe.resteban.template.TemplateApplicationTests

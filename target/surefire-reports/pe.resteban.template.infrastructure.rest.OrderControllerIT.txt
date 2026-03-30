@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pe.resteban.template.infrastructure.rest.OrderControllerIT
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.21 s -- in pe.resteban.template.infrastructure.rest.OrderControllerIT
